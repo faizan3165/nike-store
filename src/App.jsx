@@ -1,5 +1,4 @@
 import {
-  Navbar,
   Hero,
   PopularProducts,
   SuperQuality,
@@ -9,6 +8,8 @@ import {
   Subscribe,
   Footer,
 } from "./sections";
+
+import { Navbar } from "./components";
 
 const App = () => {
   return (
